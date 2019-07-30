@@ -1,0 +1,32 @@
+E:\Esigelec study\c sharp .net class\class 3\New folder\vcs\vcs\bin\Debug\vcs.exe.config
+E:\Esigelec study\c sharp .net class\class 3\New folder\vcs\vcs\bin\Debug\vcs.exe
+E:\Esigelec study\c sharp .net class\class 3\New folder\vcs\vcs\bin\Debug\vcs.pdb
+E:\Esigelec study\c sharp .net class\class 3\New folder\vcs\vcs\obj\Debug\vcs.csprojAssemblyReference.cache
+E:\Esigelec study\c sharp .net class\class 3\New folder\vcs\vcs\obj\Debug\vcs.Form1.resources
+E:\Esigelec study\c sharp .net class\class 3\New folder\vcs\vcs\obj\Debug\vcs.Properties.Resources.resources
+E:\Esigelec study\c sharp .net class\class 3\New folder\vcs\vcs\obj\Debug\vcs.csproj.GenerateResource.cache
+E:\Esigelec study\c sharp .net class\class 3\New folder\vcs\vcs\obj\Debug\vcs.csproj.CoreCompileInputs.cache
+E:\Esigelec study\c sharp .net class\class 3\New folder\vcs\vcs\obj\Debug\vcs.exe
+E:\Esigelec study\c sharp .net class\class 3\New folder\vcs\vcs\obj\Debug\vcs.pdb
+E:\Esigelec study\c sharp .net class\class 3\New folder\vcs\vcs\obj\Debug\vcs.csproj.CopyComplete
+E:\Esigelec study\c sharp .net class\class 3\New folder\vcs\vcs\obj\Debug\vcs.Form2.resources
+E:\Esigelec study\c sharp .net class\class 3\New folder\vcs\vcs\obj\Debug\vcs.Form3.resources
+E:\Esigelec study\c sharp .net class\class 3\New folder\vcs\vcs\obj\Debug\vcs.AboutBox1.resources
+E:\Esigelec study\c sharp .net class\Satyendra Chandan\vcs\vcs\bin\Debug\vcs.exe.config
+E:\Esigelec study\c sharp .net class\Satyendra Chandan\vcs\vcs\bin\Debug\vcs.exe.manifest
+E:\Esigelec study\c sharp .net class\Satyendra Chandan\vcs\vcs\bin\Debug\vcs.application
+E:\Esigelec study\c sharp .net class\Satyendra Chandan\vcs\vcs\bin\Debug\vcs.exe
+E:\Esigelec study\c sharp .net class\Satyendra Chandan\vcs\vcs\bin\Debug\vcs.pdb
+E:\Esigelec study\c sharp .net class\Satyendra Chandan\vcs\vcs\obj\Debug\vcs.csprojAssemblyReference.cache
+E:\Esigelec study\c sharp .net class\Satyendra Chandan\vcs\vcs\obj\Debug\vcs.AboutBox1.resources
+E:\Esigelec study\c sharp .net class\Satyendra Chandan\vcs\vcs\obj\Debug\vcs.Form1.resources
+E:\Esigelec study\c sharp .net class\Satyendra Chandan\vcs\vcs\obj\Debug\vcs.Form2.resources
+E:\Esigelec study\c sharp .net class\Satyendra Chandan\vcs\vcs\obj\Debug\vcs.Form3.resources
+E:\Esigelec study\c sharp .net class\Satyendra Chandan\vcs\vcs\obj\Debug\vcs.Properties.Resources.resources
+E:\Esigelec study\c sharp .net class\Satyendra Chandan\vcs\vcs\obj\Debug\vcs.csproj.GenerateResource.cache
+E:\Esigelec study\c sharp .net class\Satyendra Chandan\vcs\vcs\obj\Debug\vcs.csproj.CoreCompileInputs.cache
+E:\Esigelec study\c sharp .net class\Satyendra Chandan\vcs\vcs\obj\Debug\vcs.exe.manifest
+E:\Esigelec study\c sharp .net class\Satyendra Chandan\vcs\vcs\obj\Debug\vcs.application
+E:\Esigelec study\c sharp .net class\Satyendra Chandan\vcs\vcs\obj\Debug\vcs.csproj.CopyComplete
+E:\Esigelec study\c sharp .net class\Satyendra Chandan\vcs\vcs\obj\Debug\vcs.exe
+E:\Esigelec study\c sharp .net class\Satyendra Chandan\vcs\vcs\obj\Debug\vcs.pdb
