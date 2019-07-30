@@ -11,4 +11,11 @@ Technology used:
   <li>.NET</li>
   <li>Oracle Database</li>
   </ul>
+  
+ <h2> How to run the software?<h2>
+  <h3>Inside PUBLISH folder look for setup.exe, once installed look for "vcs" in the start menu.</h3>
+ 
+  
 
+<h2> MIT License</h2>
+<h5>Copyright @ Satyendra Chandan 2019</h5>
